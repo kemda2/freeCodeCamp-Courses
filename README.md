@@ -1,2 +1,2 @@
 # freeCodeCamp-Courses
-![freeeeeeeeeee](https://github.com/kemda2/freeCodeCamp-Courses/assets/19648132/bbf6c210-502e-41ad-a9b5-3831c2daa127)
+![freeCodeCamp](https://github.com/kemda2/freeCodeCamp-Courses/assets/19648132/feae6da9-ca18-4fbd-8452-af77cf465954)
