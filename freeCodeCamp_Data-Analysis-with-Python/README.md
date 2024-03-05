@@ -1,2 +1,2 @@
 # freeCodeCamp-Data_Analysis_with_Python
-![FCC Data Analysis](https://github.com/kemda2/freeCodeCamp-Data-Analysis-with-Python/assets/19648132/e646f30a-c2d7-48a0-8b36-e703315fbb89)
+![freecodecamp org_certification_Kemda2_data-analysis-with-python-v7](https://github.com/kemda2/freeCodeCamp-Courses/assets/19648132/e5caff3d-dc09-401e-95a1-d51d6325117e)
