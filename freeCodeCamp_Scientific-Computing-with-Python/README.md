@@ -1,3 +1,3 @@
 # freeCodeCamp-Scientific_Computing_with_Python
-![Scientific Computing with Python](https://github.com/kemda2/freeCodeCamp-Scientific_Computing_with_Python/assets/19648132/68185cd2-dbaf-444e-a02f-dd0786a5f795)
+![freecodecamp org_certification_Kemda2_data-analysis-with-python-v7](https://github.com/kemda2/freeCodeCamp-Courses/assets/19648132/e5caff3d-dc09-401e-95a1-d51d6325117e)
 
